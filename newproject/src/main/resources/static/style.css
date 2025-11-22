@@ -1,0 +1,54 @@
+body{
+	background-image: url("images/image9.png");
+	background-size: cover;
+	background-position:  center;
+	background-repeat: no-repeat;
+	font-family: sans-serif;
+}
+
+h1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: gold;
+}
+.card{
+	display: inline-block;
+	padding: 15px 25px;
+	background-color: green;
+	text-align: center;
+	color: white;
+	margin-left: 450px;
+	width: 20;
+	border:1px;
+	border-radius: 12px;
+	font-size: 18px;
+	
+}
+table{
+    margin-top: 50px;
+	width: 100%;
+	font-size: 18px;
+	height: 20px;
+	border-collapse:  no-collapse;
+	
+}
+
+th{
+	color: gold;
+	padding: 18px , 10px;
+	border-bottom: 2px solid white;
+	text-align: center;
+}
+td{
+	padding: 16px 10px;
+	border-bottom: 1px solid white;
+	color: white;
+	text-align: center;
+}
+.profit{
+	color: green;
+}
+.loss{
+	color: red;
+}
